@@ -1,5 +1,3 @@
-# Operating-System-Simulator
-
 # 🖥️ Operating System Simulation in C++
 
 This project is a comprehensive Operating System simulation developed in C++ that demonstrates the implementation of multitasking, process management, and resource handling through a modular process-based architecture. It simulates core functionalities typically managed by an OS using a set of 15+ individual executable programs.
